@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialScanner", "SerialScanner.csproj", "{35A7470E-495D-4864-BB60-B43821B0BCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A7470E-495D-4864-BB60-B43821B0BCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A7470E-495D-4864-BB60-B43821B0BCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A7470E-495D-4864-BB60-B43821B0BCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A7470E-495D-4864-BB60-B43821B0BCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB2F507-AFCA-4F48-A0F3-80DC3523563A}
+	EndGlobalSection
+EndGlobal

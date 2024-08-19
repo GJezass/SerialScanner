@@ -1,0 +1,10 @@
+﻿<Application x:Class="SerialScanner.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SerialScanner"
+             xmlns:converters="clr-namespace:SerialScanner.Converters"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <converters:BoolToIsConnectedConverter x:Key="BoolToIsConnectedConverter" />
+    </Application.Resources>
+</Application>
